@@ -1,11 +1,11 @@
-	Author	Year	Journal	Number of citation	Link
-0	SC Woolley, P Howard 	2017	 ora.ox.ac.uk	230	https://ora.ox.ac.uk/objects/uuid:d6157461-aefd-48ff-a9a9-2d93222a9bfd
-1	GDS Martino, S Cresci, A Barrón-Cedeño, S Yu… 	2020	 arxiv.org	97	https://arxiv.org/abs/2007.08024
-2	LMN Neudert 	2017	 demtech.oii.ox.ac.uk	48	https://demtech.oii.ox.ac.uk/wp-content/uploads/sites/12/2017/06/Germany_LMNeditv3.pdf
-3	SC Woolley, PN Howard 	2016	 par.nsf.gov	249	https://par.nsf.gov/biblio/10021331
-4	SC Woolley, PN Howard 	2018	 books.google.com	463	https://books.google.com/books?hl=en&lr=&id=qTpxDwAAQBAJ&oi=fnd&pg=PP1&dq=%7BComputational+Propaganda%7D&ots=foNcQnxlHc&sig=YsCShv_F5rILWxhpcKtB0dxx2oM
-5	SC Woolley, D Guilbeault 	2017	 ora.ox.ac.uk	129	https://ora.ox.ac.uk/objects/uuid:620ce18f-69ed-4294-aa85-184af2b5052e
-6	D Arnaudo 	2017	 ora.ox.ac.uk	135	https://ora.ox.ac.uk/objects/uuid:e88de32c-baaa-4835-bb76-e00473457f46
-7	G Bolsover, P Howard 	2017	 liebertpub.com	97	https://www.liebertpub.com/doi/full/10.1089/big.2017.29024.cpr
-8	S Sanovich 	2017	 ora.ox.ac.uk	116	https://ora.ox.ac.uk/objects/uuid:555c1e20-60d0-4a20-8837-c68868cc0c96
-9	R DiResta 	2018	 muse.jhu.edu	30	https://muse.jhu.edu/pub/1/article/791857/summary
+	Title	Author	Year	Journal	Number of citation	Link
+0	Computational propaganda worldwide: Executive summary	SC Woolley, P Howard 	2017	 ora.ox.ac.uk	230	https://ora.ox.ac.uk/objects/uuid:d6157461-aefd-48ff-a9a9-2d93222a9bfd
+1	A survey on computational propaganda detection	GDS Martino, S Cresci, A Barrón-Cedeño, S Yu… 	2020	 arxiv.org	97	https://arxiv.org/abs/2007.08024
+2	Computational propaganda in Germany: A cautionary tale	LMN Neudert 	2017	 demtech.oii.ox.ac.uk	48	https://demtech.oii.ox.ac.uk/wp-content/uploads/sites/12/2017/06/Germany_LMNeditv3.pdf
+3	Political communication, computational propaganda, and autonomous agents: Introduction	SC Woolley, PN Howard 	2016	 par.nsf.gov	249	https://par.nsf.gov/biblio/10021331
+4	Computational propaganda: Political parties, politicians, and political manipulation on social media	SC Woolley, PN Howard 	2018	 books.google.com	463	https://books.google.com/books?hl=en&lr=&id=qTpxDwAAQBAJ&oi=fnd&pg=PP1&dq=%7BComputational+Propaganda%7D&ots=foNcQoxiLe&sig=18HiNqlCw6Mm5jDgeJlVKXh3wdc
+5	Computational propaganda in the United States of America: Manufacturing consensus online	SC Woolley, D Guilbeault 	2017	 ora.ox.ac.uk	129	https://ora.ox.ac.uk/objects/uuid:620ce18f-69ed-4294-aa85-184af2b5052e
+6	Computational propaganda in Brazil: Social bots during elections	D Arnaudo 	2017	 ora.ox.ac.uk	135	https://ora.ox.ac.uk/objects/uuid:e88de32c-baaa-4835-bb76-e00473457f46
+7	Computational propaganda and political big data: Moving toward a more critical research agenda	G Bolsover, P Howard 	2017	 liebertpub.com	97	https://www.liebertpub.com/doi/full/10.1089/big.2017.29024.cpr
+8	Computational propaganda in Russia: The origins of digital misinformation	S Sanovich 	2017	 ora.ox.ac.uk	116	https://ora.ox.ac.uk/objects/uuid:555c1e20-60d0-4a20-8837-c68868cc0c96
+9	Computational propaganda: If you make it trend, you make it true	R DiResta 	2018	 muse.jhu.edu	30	https://muse.jhu.edu/pub/1/article/791857/summary
