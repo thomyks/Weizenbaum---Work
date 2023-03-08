@@ -1,5 +1,5 @@
 # Weizenbaum---Work
-- Semantic Scholar 
+- Semantic Scholar: 
 Title	
 Author	
 Publication date	
@@ -7,7 +7,7 @@ Citation
 Publisher	link
 
 
-- Google Scholar 
+- Google Scholar:
 Link 
 Author
 Year
